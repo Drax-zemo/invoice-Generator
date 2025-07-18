@@ -22,5 +22,4 @@ This is a web-based restaurant billing system designed for **The Unique स्�
 
 ---
 
-Let me know if you want this tailored even more for a public portfolio or a private restaurant use case!
 
